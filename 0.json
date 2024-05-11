@@ -1,0 +1,9 @@
+{
+  "description": "Entry for England to win Euro 2024.", 
+  "image": "https://raw.githubusercontent.com/saintmaxi/basecamp-project/main/0.png", 
+  "name": "England entry",
+  {
+      "trait_type": "Country", 
+      "value": "England"
+  }
+}
